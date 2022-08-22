@@ -10,3 +10,11 @@ Features:
 
 Environment : Jenkins, Github, docker , Kubernetes 
 
+
+
+Mettre sur repo github votre  
+
+- Jenkinsfile
+- Makefile
+- Dockerfile
+
