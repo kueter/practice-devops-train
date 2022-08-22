@@ -1,5 +1,7 @@
 # practice-devops-train
 
+[APPLICATION](https://github.com/kueter/angular-dashboard-ui)
+
 Mettrez en place une chaine ci/cd pour automatiser les processes de deploiement d'une equipe de developpeurs Front tout en respectant les bonne pratiques.
 Features: 
 - activation des webhooks
@@ -17,4 +19,5 @@ Mettre sur repo github votre
 - Jenkinsfile
 - Makefile
 - Dockerfile
+- un Dossier contenant 2 fichiers yaml : pour le deployment Resource et Les Services pour exposer l'application
 
